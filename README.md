@@ -1,8 +1,13 @@
 # DeepLearning.AI TensorFlow Developer
 
-Welcome to the public repo for this course.
+This is my fork of the repo for Tensorflow Developer Specialization on Coursera. Here I will include my solutions to all of the labs and all of the notes 
+and resources I use throughout. 
 
-Below is the list of assignments and ungraded labs course-wise.
+Below is the list of assignments and ungraded labs course-wise. You can peek into these folders and notebooks to see my solutions. I will keep this page 
+updated as I go through the courses with a tag to specify whether I have completed an assignment or not. 
+
+Note: I made this fork a little later in the course so solutions to course 1 weeks 1 and 2 may not be in here. I do plan to migrate them at some point but for now I have not. C1 Week 4 and on will be where you can see my solutions
+
 
 
 ### Want to contribute?
@@ -17,33 +22,33 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Housing Prices _(C1W1_Assignment.ipynb)_
+- Housing Prices _(C1W1_Assignment.ipynb)_ (complete)
 
 ### Ungraded Labs
 
-1. Hello World Neural Network _(C1_W1_Lab_1_hello_world_nn.ipynb)_
+1. Hello World Neural Network _(C1_W1_Lab_1_hello_world_nn.ipynb)_. (complete)
 
 ## Week 2
 
 ### Assignment
 
-- Handwriting Recognition _(C1W2_Assignment.ipynb)_
+- Handwriting Recognition _(C1W2_Assignment.ipynb)_. (complete)
 
 ### Ungraded Labs
 
-1. Beyond Hello World, A Computer Vision Example _(C1_W2_Lab_1_beyond_hello_world.ipynb)_
-2. Callbacks _(C1_W2_Lab_2_callbacks.ipynb)_
+1. Beyond Hello World, A Computer Vision Example _(C1_W2_Lab_1_beyond_hello_world.ipynb)_. (complete)
+2. Callbacks _(C1_W2_Lab_2_callbacks.ipynb)_. (complete)
 
 ## Week 3
 
 ### Assignment
 
-- Improve MNIST with Convolutions _(C1W3_Assignment.ipynb)_
+- Improve MNIST with Convolutions _(C1W3_Assignment.ipynb)_ (complete)
 
 ### Ungraded Labs
 
-1. Improving Accuracy with Convolutions _(C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)_
-2. Exploring Convolutions _(C1_W3_Lab_2_exploring_convolutions.ipynb)_
+1. Improving Accuracy with Convolutions _(C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb)_ (complete)
+2. Exploring Convolutions _(C1_W3_Lab_2_exploring_convolutions.ipynb)_ (complete)
 
 ## Week 4
 
