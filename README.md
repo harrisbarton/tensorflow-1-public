@@ -54,7 +54,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Handling Complex Images _(C1W4_Assignment.ipynb)_
+- Handling Complex Images _(C1W4_Assignment.ipynb)_ (complete)
 
 ### Ungraded Labs
 
